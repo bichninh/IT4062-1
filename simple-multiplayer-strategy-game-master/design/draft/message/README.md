@@ -1,0 +1,4 @@
+- UpdateData:
+  - Type 0: Remove.
+  - Type 3: Change to type 0.
+- SendRequest:

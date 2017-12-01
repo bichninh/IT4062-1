@@ -1,0 +1,5 @@
+SubjectID | IT4062
+Subject | Network Internet
+Semester : 20151
+F|30|70
+StudentCount| 3

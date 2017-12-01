@@ -1,0 +1,5 @@
+SubjectID | It2013
+Subject | ngdjhg
+Semester : 20151
+F|30|70
+StudentCount| 3

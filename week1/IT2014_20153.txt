@@ -1,0 +1,5 @@
+SubjectID | IT2014
+Subject | network interd
+Semester : 20153
+F|30|70
+StudentCount| 3
